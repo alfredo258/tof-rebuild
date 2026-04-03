@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6D28D9"/>
+      <stop offset="50%" stop-color="#5B21B6"/>
+      <stop offset="100%" stop-color="#4C1D95"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1000" cy="150" r="200" fill="#8B5CF6" opacity="0.15"/>
+  <circle cx="200" cy="500" r="180" fill="#A78BFA" opacity="0.1"/>
+  <rect x="80" y="240" width="56" height="56" rx="14" fill="white" opacity="0.2"/>
+  <text x="108" y="276" font-family="system-ui, sans-serif" font-size="28" font-weight="800" fill="white" text-anchor="middle" dominant-baseline="middle">TF</text>
+  <text x="152" y="276" font-family="system-ui, sans-serif" font-size="28" font-weight="700" fill="white" dominant-baseline="middle">The Outbound Force</text>
+  <text x="80" y="350" font-family="system-ui, sans-serif" font-size="52" font-weight="800" fill="white">Prospección B2B que</text>
+  <text x="80" y="415" font-family="system-ui, sans-serif" font-size="52" font-weight="800" fill="#DDD6FE">genera resultados</text>
+  <text x="80" y="490" font-family="system-ui, sans-serif" font-size="22" fill="#C4B5FD">+500 reuniones agendadas · +30 empresas · LinkedIn · Email · Ads</text>
+  <rect x="80" y="530" width="260" height="48" rx="12" fill="white" opacity="0.2"/>
+  <text x="210" y="560" font-family="system-ui, sans-serif" font-size="18" font-weight="600" fill="white" text-anchor="middle">theoutboundforce.com</text>
+</svg>
